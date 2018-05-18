@@ -1,0 +1,22 @@
+@charset "utf-8";
+	*{		margin:0px;
+	  		padding:0px;
+	  		list-style: none;
+	  		text-decoration: none;
+	  }
+.clearfix:after,.clearfix:before{content: "";display: table;}
+.clearfix:after{clear: both;}
+.clearfix{*zoom:1;}
+.container{width:1920px;}
+.main,.center{width: 1000px;
+	 	margin: 0 auto;
+	 	font-size: 0px;
+	 }
+.gWidth{
+	margin-right: auto;
+	margin-left: auto;
+	width:1000px;
+	font-size: 0;
+}
+
+

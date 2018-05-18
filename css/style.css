@@ -1,0 +1,302 @@
+/* 
+* @Author: DELL
+* @Date:   2018-03-28 10:32:55
+* @Last Modified by:   DELL
+* @Last Modified time: 2018-03-28 16:34:42
+*/
+@charset"utf-8"
+.fl{
+
+	float: left;
+}
+.fr{
+
+	float: right;
+}
+.header p a{
+
+	color:#000;
+	font-size: 14px;
+	margin-right: 25px;
+}
+.header p{
+		margin-top: 50px;
+}
+.header h1{
+
+	float: left;
+}
+.header{
+
+	margin-bottom: 20px;
+}
+.top ul{
+
+	margin-top: 27px;
+}
+.top li{
+
+	width: 232px;
+	height: 154px;
+	border-right: 1px solid #ccc;
+	float: left;
+	text-align: center;
+}
+.top img{
+
+	margin-top: 24px;
+}
+.top p{
+
+	margin-top: 30px;
+}
+.connet .center .left{
+
+		width: 687px;
+		height: 481px;
+		border-right: 1px solid #ccc;
+		margin-top: 30px;
+		float: left;
+}
+.left .lt{
+
+	height: 47px;
+	border: 1px solid #ccc;
+	line-height: 47px;
+	border-right: 0;
+	margin-bottom: 15px;
+}
+.left .lt h4{
+
+	float: left;
+}
+.left .lt h4 a{
+
+	font-size: 20px;
+	color: #656565;
+	margin-left: 10px;
+}
+.left .lt p{
+
+	float: right;
+	color:#09238B;
+	margin-right: 10px; 
+}
+.left ul li span{
+
+	display: inline-block;
+	width: 100px;
+	height: 80px;
+	line-height: 80px;
+	background: #8B96C4;
+	text-align: center;
+	color: #fff;
+	float: left;
+
+  margin-right: 16px;
+}
+.left ul li{
+	width: 658px;
+	height: 80px;
+	margin-bottom: 28px;
+}
+.left ul{
+
+	height:417px;
+	border-bottom: 1px solid #ccc;
+}
+.left ul .l2{
+
+	margin-bottom: -10px;
+}
+.left ul li p{
+line-height:30px;
+font-size: 12px;
+}
+.left ul li p a{
+
+	color: #000;
+}
+.right1{
+
+	float: left;
+	width: 311px;
+	margin-top: 30px;
+}
+.right1 h6{
+
+	width: 285px;
+	height: 17px;
+	border:1px solid #ccc;
+	border-left: 0;
+	font-size: 20px;
+	padding: 16px 0;
+	padding-left: 25px;
+}
+.right1 .p1{
+
+		width: 311px;
+		height: 221px;
+		border:1px solid #ccc;
+		text-align: center;
+		border-left: 0;
+		padding: 18px 0;
+		border-top: 0;
+}
+.rr{
+
+	width: 291px;
+	height: 134px;
+	background-color: #EDEDED;
+	margin-left: 12px;
+}
+.rr .p3{
+
+	text-align: center;
+	line-height: 134px;
+	display: inline-block;
+	font-size: 20px;
+	color:#FF8C00;
+}
+.rr img{
+
+	float: left;
+}
+.rr .p2{
+
+	float: right;
+	margin-top: 88px;
+	color: #7B88BC;
+}
+.r1{
+	width: 311px;
+	height: 150px;
+	border:1px solid #ccc;
+	border-left: 0;
+	border-top: 0;
+	padding-top: 20px;
+}
+.bottom h5{
+
+	margin-bottom: 17px;
+	margin-top: 32px;
+	font-size: 20px;
+	width: 93px;
+}
+.bottom .img{
+
+	width: 990px;
+	height: 240px;
+}
+
+.bottom img{
+    margin-right: 18px;
+}
+.bottom .div{
+
+	width: 656px;
+	margin-right: -34px;
+}
+.div img{
+	float: left;
+	margin-bottom: 10px;
+}
+.div{
+	float:left;
+}
+.img{
+	width: 1000px;
+}
+.img .a2{
+	float: right;
+}
+.img .aaa{
+	float: left;
+}
+.cotb{
+
+	height: 104px;
+	width: 100%;
+	background: #EDEDED;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+
+	border-top: 4px solid #09238B;
+	height: 350px;
+	background-color: #5F5F5F;
+}
+.footer .nav1{
+
+	border-bottom: 1px solid #888888;
+	margin-bottom: 10px;
+
+}
+.footer .bottom{
+	height: 200px;
+
+}
+
+.footer a{
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-right: 96px;
+	margin-top: 20px;
+	line-height: 42px;
+	display: inline-block;
+
+}
+.footer ul{
+	font-size: 12px;
+	color: #FFFFFF;
+	line-height: 30px;
+	float: left;
+	margin-right: 96px;
+}
+.footer .list{
+	margin-right:150px;
+}
+.footer .bottom img{
+	margin-right: 25px;
+	margin-top: 10px;
+}
+.footer h5{
+	font-size: 12px;
+	font-weight: normal;
+	color: #CBCBCB;
+	border-top: 1px solid #000000;
+	line-height: 55px;
+
+}
+.cotb1 p {
+		padding-top: 29px;
+		padding-bottom: 19px;
+}
+.cotb1 p a{
+
+	font-size: 16px;
+	color: #000;
+}
+.cotb1 span{
+
+	font-size: 12px;
+	margin-right: 54px;
+}

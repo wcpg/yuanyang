@@ -1,0 +1,108 @@
+/* 
+* @Author: DELL
+* @Date:   2018-03-28 20:01:10
+* @Last Modified by:   DELL
+* @Last Modified time: 2018-03-28 20:59:52
+*/
+@charset"utf-8"
+.fl{
+
+	float: left;
+}
+.fr{
+
+	float: right;
+}
+.header p a{
+
+	color:#000;
+	font-size: 14px;
+	margin-right: 25px;
+}
+.header p{
+		margin-top: 50px;
+}
+.header h1{
+
+	float: left;
+}
+.header{
+
+	margin-bottom: 20px;
+}
+.a1{
+
+	color: #10298E;
+}
+.left table{
+
+	font-size: 12px;
+	margin-top: 36px;
+}
+.left{
+
+	float: left;
+}
+.right li{
+
+	width: 362px;
+	height: 38px;
+	border-bottom: 1px solid #ccc;
+	float: right;
+	padding-top: 22px;
+	background: url(../imges/dian.png) no-repeat 14px center;
+}
+.right h3{
+
+	font-size: 24px;
+	color:#10298E;
+}
+.footer{
+
+	border-top: 4px solid #09238B;
+	height: 350px;
+	background-color: #5F5F5F;
+	margin-top: 61px;
+}
+.footer .nav1{
+
+	border-bottom: 1px solid #888888;
+	margin-bottom: 10px;
+
+}
+.footer .bottom{
+	height: 200px;
+
+}
+
+.footer a{
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-right: 96px;
+	margin-top: 20px;
+	line-height: 42px;
+	display: inline-block;
+
+}
+.footer ul{
+	font-size: 12px;
+	color: #FFFFFF;
+	line-height: 30px;
+	float: left;
+	margin-right: 96px;
+}
+.footer .list{
+	margin-right:150px;
+}
+.footer .bottom img{
+	margin-right: 25px;
+	margin-top: 10px;
+}
+.footer h5{
+	font-size: 12px;
+	font-weight: normal;
+	color: #CBCBCB;
+	border-top: 1px solid #000000;
+	line-height: 55px;
+
+}

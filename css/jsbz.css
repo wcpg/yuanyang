@@ -1,0 +1,157 @@
+@charset "utf-8";
+.top{
+
+	height: 80px;
+	border-bottom: #CCCCCC 1px solid;
+	border-top: 4px solid #3148A5;
+}
+.top .lan{
+	color: #09238B;
+	font-weight: bold;
+}
+.top a{
+
+	font-size: 14px;
+	color: #333333;
+	float: right;
+	margin-top: 55px;
+	margin-left: 25px;
+}
+
+.middle1 a, .middle1 span{
+	font-size: 12px;
+	color: #272727;
+	line-height: 39px;
+
+}
+.middle1 span{
+	margin:0 5px;
+}
+.neirong{
+	height: 1245px;
+	background-color:#FFFFFF;
+	
+}
+.neirong .gWidth{
+	margin-top: 36px;
+}
+.neirong .left{
+
+	width: 200px;
+	float: left;
+}
+
+.neirong .left li{
+	font-size: 14px;
+	color: #000000;
+	border-bottom: #CCCCCC 1px solid;
+	line-height: 29px;
+	margin-top: 10px;
+}
+.neirong .left h4{
+	font-size: 24px;
+	color: #0F298D;
+} 
+.neirong .right{
+	margin-left: 31px;
+	width: 768px;
+	float: left;
+}
+.neirong .right h4{
+
+	font-size: 20px;
+	color: #000000;
+	width: 768px;
+	border-bottom:  #CCCCCC 1px solid;
+	line-height: 38px;
+}
+.neirong .right li{
+	margin-top: 18px;
+	border:8px solid #FFFFFF;
+	width: 240px;
+	float: left;
+}
+.neirong .right ul{
+	height: 1090px;
+	border-bottom:1px dashed #cccccc; 
+}
+.neirong .right ul p{
+	width: 240px;
+	font-size:12px;
+	line-height:46px;
+	text-align: center;
+}
+.neirong .right li:hover{
+
+	border: 8px solid #10298E;
+	color: #fff;
+	background-color: #10298E;
+}
+.neirong .fenye a,span{
+	display: inline-block;
+	font-size: 12px;
+	color: #000000;
+	line-height: 55px;
+	height: 55px;
+
+}
+.fenye{
+	margin-top: 1px;
+	
+
+}
+.fenye p{
+	float: right;
+	font-size:12px;
+	line-height: 55px; 
+}
+
+
+.footer{
+
+	border-top: 4px solid #09238B;
+	height: 350px;
+	background-color: #5F5F5F;
+}
+.footer .nav1{
+
+	border-bottom: 1px solid #888888;
+	margin-bottom: 10px;
+
+}
+.footer .bottom{
+	height: 200px;
+
+}
+
+.footer a{
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-right: 96px;
+	margin-top: 20px;
+	line-height: 42px;
+	display: inline-block;
+
+}
+.footer ul{
+	font-size: 12px;
+	color: #FFFFFF;
+	line-height: 30px;
+	float: left;
+	margin-right: 96px;
+}
+.footer .list{
+	margin-right:150px;
+}
+.footer .bottom img{
+	margin-right: 25px;
+	margin-top: 10px;
+}
+.footer h5{
+	font-size: 12px;
+	font-weight: normal;
+	color: #CBCBCB;
+	border-top: 1px solid #000000;
+	line-height: 55px;
+
+}
